@@ -13,6 +13,7 @@ This repository contains a collection of commonly used Bash scripts for setting 
 ## Getting Started
 
 To use the scripts in this repository, you need to have a Unix-like system with Bash installed. You can clone this repository to your local machine using the following command:
+
 `git clone https://github.com/uzzalhcse/awesome-bash-scripts.git`
 
 ## Scripts
