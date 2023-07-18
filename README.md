@@ -32,7 +32,7 @@ Feel free to explore the scripts and modify them according to your requirements.
 ## Usage
 
 To use a specific script, navigate to the cloned repository directory and execute the script using the following command:
-`./script_name.sh`
+`sh ./script_name.sh`
 Please note that some scripts may require administrative privileges, so make sure to run them with appropriate permissions.
 
 ## Contributing
