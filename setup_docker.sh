@@ -1,16 +1,5 @@
 #!/bin/bash
 
-# Check if the PROJECT_DIR argument is provided
-if [ -z "$1" ]; then
-  echo "Usage: $0 <PROJECT_DIR>"
-  exit 1
-fi
-
-PROJECT_DIR=$1
-
-# Export the PROJECT_DIR environment variable
-export PROJECT_DIR
-
 # Update your existing list of packages
 echo "Updating package list..."
 sudo apt update -y
