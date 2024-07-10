@@ -48,6 +48,3 @@ sudo apt install -y docker-ce
 echo "Checking Docker status..."
 sudo systemctl status docker --no-pager
 
-# Build and start the Docker containers
-echo "Building and starting Docker containers..."
-sudo -E docker compose up --build
